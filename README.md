@@ -1,4 +1,4 @@
-# Styrokai
+# Styrokai ![Styrokai Icon](/.media/styrokai_icon.png)
 A vivid, bolded, pitch-black Monokai color scheme
 
 ![Styrokai Theme](/.media/Styrokai_img.png)
