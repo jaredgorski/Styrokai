@@ -1,0 +1,55 @@
+{
+	"name": "styrokai",
+	"displayName": "Styrokai",
+	"description": "A vivid, bolded, pitch-black Monokai color scheme",
+	"version": "0.0.8",
+	"publisher": "jibjack",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jaredgorski/Styrokai.git"
+	},
+	"homepage": "https://github.com/jaredgorski/Styrokai/blob/master/README.md",
+	"author": {
+		"name": "jaredgorski"
+	},
+	"keywords": [
+		"dark",
+		"black",
+		"pitch",
+		"contrast",
+		"monokai",
+		"hyper",
+		"simple",
+		"seti",
+		"pure",
+		"clean",
+		"blackboard",
+		"material",
+		"minimal"
+	],
+	"icon": "media/styrokai_icon.png",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.29.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Styrokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Styrokai-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9107de65-2051-42c8-83de-5556336994da",
+		"publisherId": "92d8e54d-29f9-4b50-b761-057c6d1a92b0",
+		"publisherDisplayName": "Jared Gorski"
+	}
+}
