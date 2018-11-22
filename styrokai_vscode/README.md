@@ -1,4 +1,7 @@
-# Styrokai
-A vivid, bolded, pitch-black Monokai color scheme
+<img align="center" width="100" height="100" src="/.media/styrokai_icon.png">
 
-![](https://raw.githubusercontent.com/jaredgorski/Styrokai/master/.media/Styrokai_vscode_img.png)
+
+![](.media/Styrokai_vscode_img.png)
+
+
+**For everyone whose ever been dissatisfied with gray editors and non-Monokai syntax, this is Styrokai.**

@@ -1,8 +1,8 @@
 {
 	"name": "styrokai",
 	"displayName": "Styrokai",
-	"description": "A vivid, bolded, pitch-black Monokai color scheme",
-	"version": "0.0.8",
+	"description": "A vivid, bolded, pitch-black Monokai color theme",
+	"version": "0.0.9",
 	"publisher": "jibjack",
 	"repository": {
 		"type": "git",
@@ -27,7 +27,7 @@
 		"material",
 		"minimal"
 	],
-	"icon": "media/styrokai_icon.png",
+	"icon": ".media/styrokai_icon.png",
 	"galleryBanner": {
 		"color": "#000000",
 		"theme": "dark"
@@ -43,7 +43,7 @@
 			{
 				"label": "Styrokai",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Styrokai-color-theme.json"
+				"path": "./theme/Styrokai-color-theme.json"
 			}
 		]
 	},
