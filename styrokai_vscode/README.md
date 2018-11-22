@@ -1,7 +1,1 @@
-<p align="center"><img width="100" height="100" src=".media/styrokai_icon.png"></p>
-
-
-<p align="center"><img src=".media/Styrokai-vscode_img.png"></p>
-
-
-<p align="center"><b>For those who don't settle for bland backgrounds and garish syntax, this is Styrokai.</b></p>
+![](https://raw.githubusercontent.com/jaredgorski/Styrokai/master/styrokai_vscode/.media/vscode-readme_head.png)
