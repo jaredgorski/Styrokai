@@ -12,5 +12,5 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 ![Styrokai Theme](/.media/Styrokai_img.png)
 *(shown here on Sublime Text 3 alongside the [DA UI theme](https://packagecontrol.io/packages/DA%20UI))*
 
-# Textmate
-[Download this repository as a .zip](https://github.com/jaredgorski/Styrokai/archive/master.zip), unzip the directory, navigate within the **styrokai_textmate** folder, and open the **Styrokai.tmTheme** file using Textmate.
+# TextMate
+[Download this repository as a .zip](https://github.com/jaredgorski/Styrokai/archive/master.zip), unzip the directory, navigate within the **styrokai_textmate** folder, and open the **Styrokai.tmTheme** file using TextMate.
