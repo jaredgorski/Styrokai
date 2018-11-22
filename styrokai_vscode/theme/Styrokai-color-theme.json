@@ -213,7 +213,7 @@
 		"tab.activeBorder": "#cccccc",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorGroupHeader.noTabsBackground": "#000000",
-		"statusBar.background": "#000011",
+		"statusBar.background": "#000000",
 		"statusBar.foreground": "#ffffff",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#fafafa",
