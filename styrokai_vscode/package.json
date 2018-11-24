@@ -2,7 +2,7 @@
 	"name": "styrokai",
 	"displayName": "Styrokai",
 	"description": "A vivid, bolded, pitch-black Monokai color theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "jibjack",
 	"repository": {
 		"type": "git",
@@ -25,7 +25,9 @@
 		"clean",
 		"blackboard",
 		"material",
-		"minimal"
+		"minimal",
+		"hyper",
+		"hyperterm"
 	],
 	"icon": ".media/styrokai_icon.png",
 	"galleryBanner": {
