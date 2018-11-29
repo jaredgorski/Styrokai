@@ -70,7 +70,7 @@
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#A7F713",
+				"foreground": "#89e215",
 				"fontStyle": " italic "
 			}
 		},
@@ -78,7 +78,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#A7F713",
+				"foreground": "#89e215",
 				"fontStyle": " italic"
 			}
 		},
@@ -86,7 +86,7 @@
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#A7F713"
+				"foreground": "#89e215"
 			}
 		},
 		{
@@ -110,7 +110,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A7F713"
+				"foreground": "#89e215"
 			}
 		},
 		{
@@ -183,10 +183,10 @@
 		"editorCursor.foreground": "#FFFFFF",
 		"editorGroupHeader.noTabsBackground": "#000000",
 		"editorGroupHeader.tabsBackground": "#000000",
-		"editorGutter.addedBackground": "#00cc44",
+		"editorGutter.addedBackground": "#298b10",
 		"editorGutter.background": "#000000",
-		"editorGutter.deletedBackground": "#e40000",
-		"editorGutter.modifiedBackground": "#eeff00",
+		"editorGutter.deletedBackground": "#a81616",
+		"editorGutter.modifiedBackground": "#bbaa0e",
 		"editorIndentGuide.activeBackground": "#000000",
 		"editorIndentGuide.background": "#000000",
 		"editorRuler.foreground": "#777777",
@@ -196,20 +196,20 @@
 		"input.background": "#101010",
 		"input.border": "#fafafa",
 		"list.activeSelectionBackground": "#111132",
-		"list.activeSelectionForeground": "#ffffff",
+		"list.activeSelectionForeground": "#e4e4e4",
 		"list.dropBackground": "#000000",
 		"list.errorForeground": "#fad325",
 		"list.focusBackground": "#222222",
-		"list.focusForeground": "#ffffff",
+		"list.focusForeground": "#e4e4e4",
 		"list.highlightForeground": "#495288",
 		"list.hoverBackground": "#222222",
-		"list.hoverForeground": "#ffffff",
+		"list.hoverForeground": "#e4e4e4",
 		"list.inactiveFocusBackground": "#222222",
 		"list.inactiveSelectionBackground": "#111132",
-		"list.inactiveSelectionForeground": "#ffffff",
-		"list.invalidItemForeground": "#f57b5d",
+		"list.inactiveSelectionForeground": "#e4e4e4",
+		"list.invalidItemForeground": "#e4e4e4",
 		"list.warningForeground": "#ff4040",
-		"selection.background": "#545451",
+		"selection.background": "#53717a",
 		"sideBar.background": "#000000",
 		"sideBar.foreground": "#fafafa",
 		"sideBarTitle.foreground": "#fafafa",
