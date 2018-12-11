@@ -3,6 +3,8 @@ A vivid, bolded, pitch-black Monokai color theme
 
 ![Styrokai Theme](/.media/Styrokai-vscode_img.png)
 
+![Nineties Default Theme Swatch](/.media/Styrokai-swatch.png)
+*Swatch created with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
 
 # Visual Studio Code
 Install using the Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=jibjack.styrokai
