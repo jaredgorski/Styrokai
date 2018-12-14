@@ -218,6 +218,8 @@
 		"sideBar.foreground": "#fafafa",
 		"sideBarTitle.foreground": "#fafafa",
 		"statusBar.background": "#000000",
+		"statusBar.noFolderBackground" : "#000000",
+  	"statusBar.debuggingBackground": "#462020",
 		"statusBar.foreground": "#ffffff",
 		"tab.activeBackground": "#000000",
 		"tab.activeBorder": "#cccccc",
