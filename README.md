@@ -1,4 +1,4 @@
-# Styrokai <img align="left" width="100" height="100" src="/.media/styrokai_icon.png">
+# Styrokai ![](https://img.shields.io/visual-studio-marketplace/d/jibjack.styrokai.svg) <img align="left" width="100" height="100" src="/.media/styrokai_icon.png">
 A vivid, bolded, pitch-black Monokai color theme
 
 ![Styrokai Theme](/.media/Styrokai-vscode_img.png)
