@@ -165,7 +165,8 @@
 	"colors": {
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#ffffff",
-		"activityBarBadge.background": "#000000",
+		"activityBarBadge.background": "#222222",
+            	"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#f1f1f1",
 		"badge.foreground": "#2b21b4",
 		"button.background": "#2b21b4",
@@ -219,7 +220,7 @@
 		"sideBarTitle.foreground": "#fafafa",
 		"statusBar.background": "#000000",
 		"statusBar.noFolderBackground" : "#000000",
-  	"statusBar.debuggingBackground": "#462020",
+  		"statusBar.debuggingBackground": "#462020",
 		"statusBar.foreground": "#ffffff",
 		"tab.activeBackground": "#000000",
 		"tab.activeBorder": "#cccccc",
